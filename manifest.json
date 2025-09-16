@@ -1,6 +1,6 @@
 {
-  "name": "Triangle Calculator",
-  "short_name": "TriangleCalc",
+  "name": "Kalkulator Trójkąta",
+  "short_name": "KalkulatorTrójkąta",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
